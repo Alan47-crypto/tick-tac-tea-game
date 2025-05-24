@@ -1,15 +1,9 @@
 version: 1
 name: tic-tac-tea
-description: A Tea Protocol themed Tic Tac Toe game
+description: A Tea Protocol-themed Tic Tac Toe game
 license: MIT
-theme:
-  primary: "#1a5c1a"
-  secondary: "#000000"
-  accent: "#34a853"
-maintainers:
-  - github: Alan47-crypto
-    address: 0xc05984a372958005ea7bE9c56f1FE5C36a783C91
+codeOwners:
+  - address: "0xc05984a372958005ea7bE9c56f1FE5C36a783C91"
+  - address: "0xafcA10C2c2aDEE754b670a5A647ED2D788d1E2FC"
+quorum: 2  # Both must approve actions
 repository: https://github.com/Alan47-crypto/tick-tac-tea-game
-assets:
-  - path: assets/logo.txt
-    description: ASCII art logo
