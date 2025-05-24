@@ -1,6 +1,6 @@
 {
   "name": "tic-tac-tea",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A Tea Protocol themed Tic Tac Toe game",
   "main": "game.js",
   "scripts": {
